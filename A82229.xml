@@ -1,0 +1,210 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of the Protestant clergie of the city of Dublin, shewing the reasons why they cannot consent to the taking away of the Book of common prayer, and comply with the Directory. Presented to the Honourable Commissioners for the Parliament of England, July 9. 1647.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82229</idno>
+            <idno type="STC">Wing D756</idno>
+            <idno type="STC">Thomason E399_27</idno>
+            <idno type="STC">ESTC R201727</idno>
+            <idno type="EEBO-CITATION">99862226</idno>
+            <idno type="PROQUEST">99862226</idno>
+            <idno type="VID">160390</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82229)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160390)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 63:E399[27])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of the Protestant clergie of the city of Dublin, shewing the reasons why they cannot consent to the taking away of the Book of common prayer, and comply with the Directory. Presented to the Honourable Commissioners for the Parliament of England, July 9. 1647.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeere 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Signed at end: Ed. Laonensis [and 17 others].</note>
+                  <note>Annotation on Thomason copy: "July 22th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England. --  Book of common prayer --  Early works to 1800.</term>
+               <term>Directory for the publique worship of God throughout the three kingdoms of England, Scotland, and Ireland --  Early works to 1800.</term>
+               <term>Clergy --  Ireland --  Dublin --  Early works to 1800.</term>
+               <term>Protestants --  Ireland --  Dublin --  Early works to 1800.</term>
+               <term>Ireland --  Church history --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:160390:1" rendition="simple:additions"/>
+            <p>A DECLARATION OF THE Proteſtant Clergie Of the City of DUBLIN, Shewing the Reaſons why they cannot conſent to the taking away of the Book of <hi>Common Prayer,</hi> and comply with the <hi>Directory.</hi>
+            </p>
+            <p>
+               <hi>Preſented</hi> To the Honourable Commiſsioners for the PARLIAMENT of ENGLAND, <hi>July</hi> 9. 1647.</p>
+            <figure>
+               <figDesc>printer's device, consisting of the Irish harp surmounted by a crown</figDesc>
+            </figure>
+            <p>
+               <add>July 22<hi rend="sup">th.</hi>
+               </add> Printed in the Yeere 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:160390:2"/>
+            <pb n="1" facs="tcp:160390:2"/>
+            <head>To the Honourable Commiſsiomers from the Parliament of ENGLAND, The humble Anſwer and Petition of the Proteſtant Cler<g ref="char:EOLhyphen"/>gie of the City of <hi>Dublin;</hi>
+            </head>
+            <opener>Humbly ſhewing,</opener>
+            <p>THat whereas we have received from your Honours by <hi>Anthony Dopping</hi> Eſquire, a meſſage conſiſting of two branches; one of a <hi>Demand, Whether the Miniſters will officiate in their ſeverall Churches, not uſing the Book of Common Prayer.</hi>
+            </p>
+            <p>The other a Conceſſion to this effect; <hi>That ſuch as will of<g ref="char:EOLhyphen"/>ficiate, may uſe the Directory, or ſuch ſervice as is agreeable to the Word of God; but not uſe the Book of Common Prayer.</hi>
+            </p>
+            <p>We hereto with all meekneſſe and lowlineſſe of minds return this our joynt Anſwer.</p>
+            <p n="1">1 That foraſmuch as we ſee and know, that the Proteſtants of this City, for the moſt part, are much grieved in heart for the want of the daily accuſtomed Service of God in the two Cathedralls, and the Pariſh Churches of this City, and for their late being deprived of us and our Miniſtery, which they have long enjoyed: We are very much troubled, and are very ſorrowfull in our ſoules for their grief: We acknowledge our ſelves bound to preach the Goſpell of Chriſt unto the People, and are ſo farre from a voluntary deſertion of our Churches, People, Miniſtery, and the exerciſe thereof, as that we ſhall rejoyce in nothing more, then that we may finiſh our courſe with joy, and the Miniſtery which we have received of the Lord <hi>Jeſus,</hi> to teſtifie the grace of God.</p>
+            <p n="2">2. That we have been and ſtill are effectually debarred from our Churches, and the exerciſe of our Miniſtery by your Ho<g ref="char:EOLhyphen"/>nours <hi>Injunction and Command,</hi> bearing date the 24. of June, 1647.
+<pb n="2" facs="tcp:160390:3"/>
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> you require the diſcontinuance of the Booke of Common-Prayer, and the receiving of the Directory, &amp;c. which <hi>injunction</hi> lies ſtill upon us, with the danger of <hi>non-pro<g ref="char:EOLhyphen"/>tection</hi> in caſe we diſobey the ſame.</p>
+            <p n="3">3. That we cannot conſent with a good conſcience to the diſcontinuance of the Book of Common-Prayer, &amp; receiving the Directory in lieu thereof, or any other private forme of publike ſervice, for the reaſons exhibited, and alledged in our Anſwer the 22. of June laſt; whereto we humbly annex theſe reaſons following, amongſt others which we debated upon in our mutuall conference the 25. of June, and on the ſame day touched ſome of the heads of them before your Honours.</p>
+            <p n="1">I. We all at our Ordination or being made Presbyters, have (among other things) made this ſolemne promiſe before G<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d, which wee account the ſame with or little different from an Oath, <hi>that we would ſo miniſter the Doctrine and Sacra<g ref="char:EOLhyphen"/>ments, and Diſcipline of Chriſt, as the Lord hath commanded, and as this Realme hath received the ſame.</hi>
+            </p>
+            <p n="2">II. We have often taken the Oath of <hi>Supremacy,</hi> and ſworn that the <hi>Kings Highneſſe is the onely ſupreme <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>overnour of this Realme, as well in all ſpirituall or Eccleſiaſt call things, or cauſes, as temporall, and that we ſhall aſsiſt and defend all Iuriſdictions, &amp;c. granted or belonging to the Kings Highneſſe, his Heires and Succeſſors, or united a<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d annexed to the Imperiall Crowne of this Realme.</hi> Now ſhould we receive a Directory printed, or any other forme without royall Authority, wee doe not con<g ref="char:EOLhyphen"/>ceive how this can ſtand with this our Oath.</p>
+            <p n="3">III. As the Act of Parliament 2. <hi>Eliz.</hi> ſtill in force in this Kingdome, expreſſely commands the uſe of this Book of <hi>Common-Prayer,</hi> ſo it forbids <hi>Common-Prayer</hi> or Adminiſtra<g ref="char:EOLhyphen"/>tion of the Sacraments, otherwiſe or after any other manner or forme, with any private diſpenſation whereof we cannot comply, we being bound to the obedience thereof, <hi>not only for fear of penalty, but for conſcience ſake, Rom.</hi> 13.5.</p>
+            <p n="4">
+               <pb n="3" facs="tcp:160390:3"/> IIII. Whereas the Booke of Common-Prayer is one maine part of the Reformation eſtabliſhed in the Churches of England and Ireland, the laying aſide thereof and the recei<g ref="char:EOLhyphen"/>ving of the Directory or any other forme would be, we con<g ref="char:EOLhyphen"/>ceive (conſidering the preſent ſtate and circumſtances of things) a departing in this from the Communion of the Church of England and Ireland.</p>
+            <p n="5">V. It is evident, that as the Conſtitution of a Law in any matter Eccleſiaſticall, the order ever obſerved in the Church ſince Kings became <hi>nurſing fathers</hi> thereto, was, is, and ought to be this, That it firſt paſſe the conſultation and determina<g ref="char:EOLhyphen"/>tion of a lawfull Eccleſiaſticall Councell; and then, that it re<g ref="char:EOLhyphen"/>ceive the ſanction and confirmation of the civill ſupreme Ma<g ref="char:EOLhyphen"/>giſtrate; for this gives it the formall ſtrength and vigour of a Law outwardly obliging, and that gives it materiality and ſubſtance, and ſupplies ground ſufficient to make it a Law in<g ref="char:EOLhyphen"/>wardly obliging Chriſtian People to receive it. So in the pro<g ref="char:EOLhyphen"/>mulgation and execution of that Law, concerning a matter Eccleſiaſticall, there was and is this order obſerved: Firſt, the ſupreme civill Magiſtrate remands and recommends it to the Eccleſiaſticall Governours, and they deliver it to the reſt of the Paſtors, and they to the People. So that the immedi<g ref="char:EOLhyphen"/>ate actuall reception of an Order Eccleſiaſticall by the Mini<g ref="char:EOLhyphen"/>ſters, is from the hand of the Biſhop or Ordinary. And upon this is founded that ſolemne promiſe made before God by e<g ref="char:EOLhyphen"/>very Miniſter at his Ordination, That he will reverently o<g ref="char:EOLhyphen"/>bey his Ordinary, and other chiefe Miniſters, unto whom the government and charge over him is committed, following with a glad mind their godly admonitions, and ſubmitting himſelfe to their godly judgements.</p>
+            <p>Since then in this matter concerning the Booke of Common Prayer, all the required premiſſes were fulfilled, and that any other forme, that for the preſent we can uſe,
+<pb n="4" facs="tcp:160390:4"/>wants all of them, we cannot without breach of our promiſe forementioned, and diſordered anticipation or neglect of the judgement of our Ordinances, receive any ſuch or other form, conſidering the Kings command concerning the onely uſe of the Book of Common-Prayer expreſſed in the Act of Parlia<g ref="char:EOLhyphen"/>ment is ſtill in force, and the commands and conſtitutions of our lawfull Convocation of the Biſhops and Clergie, ſtill live and ſpeak unto us, in the Canons made in the yeare, 1634. whereof the third thus expreſſely, <hi>That Forme of Liturgie or divine Service and no other ſhall be uſed in any Church of this Realme, but that which is eſtabliſhed by Law, and comprized in the Booke of Common-Prayer, and Adminiſtration of the Sacraments.</hi> Which Canon with all the reſt is confirmed and publiſhed by his Majeſties Authority under the great Seale of Ireland.</p>
+            <p n="6">VI. It may be added, that the Reformed <hi>Church</hi> of Ire<g ref="char:EOLhyphen"/>land, under the Government of our dread Soveraigne the King, is and ever was reputed a free Nationall Church, and not ſubordinate unto or depending upon the convocation of any other Church. And hence it was, that till the convocati<g ref="char:EOLhyphen"/>on held at Dublin, Anno, 1634. the Articles of the Church of England were not held, or reputed the Articles of the Church of Ireland, and when they were received, they were not received in any acknowledged ſubordination to the Church of England, but for manifeſtation of our agreement with that Church in the confeſſion of the ſame Chriſtian Faith, and the Doctrine of the Sacraments, as is expreſſed in the firſt Canon. Hence it is, beſides that our Canons were not impoſed by the Church of England, nay when ſome<g ref="char:EOLhyphen"/>what highly the Clergie was invited to ſubmit to the Book of Engliſh Canons, the Convocation utterly refuſed the ſame, and framed a new Booke of Canons for the Church of Ire<g ref="char:EOLhyphen"/>land. Should wee therefore receive or admit of any other forme, without the Authority of this Church, we ſhould be held and eſteemed before God and the world, guilty of un<g ref="char:EOLhyphen"/>conſcionably
+<pb n="5" facs="tcp:160390:4"/>betraying of the Liberty of the free Nationall Church of Ireland.</p>
+            <p n="7">VII. The Book of Common-Prayer hath been in uſe in this Church from the beginning of the Reformation, wee have preached for it, and recommended it to the people as a forme of Gods publike Worhip and Service: the people of God in this City for the moſt part, generally doe love it, have been edified by it, are loath to part from it, and earneſt<g ref="char:EOLhyphen"/>ly deſire the continuance of it. Now ſhould we conſent to the taking of it away, and receive or uſe any other forme not eſtabliſhed by Law, we ſhould not avoid the guilt of ſin, it being all one <hi>to deſtroy that which is well built,</hi> as to build <hi>that which a man once deſtroyed,</hi> which in the Apoſtles judgement (<hi>Gal.</hi> 2.8.) <hi>renders a man a tranſgreſſor.</hi>
+            </p>
+            <p>And withall wee ſhould, as matters ſtand, give great of<g ref="char:EOLhyphen"/>fence and ſcandall to the conſciences of our brethren, and ſo ſin againſt them, who deſerve better at our hand, and for whom Chriſt dyed.</p>
+            <p n="8">VIII. Laſtly, that reaſon given by the Uuniverſity of Oxford in this point is not to be forgotten, that by our lea<g ref="char:EOLhyphen"/>ving of the Booke of Common-Prayer and receiving any o<g ref="char:EOLhyphen"/>ther Former, we ſhould condemne the Church and State for the penalties and cenſures againſt Recuſants, and juſtifie them in their accuſations and imputations of injuſtice and tyranny, wherwith they boldly charge both our Churches of England and Ireland.</p>
+            <p>The premiſſes conſidered, as we hope your Honours diſcern hereby, that we have not lightly or obſtinately or out of fa<g ref="char:EOLhyphen"/>ction, or any ſpirit of oppoſition for borne the exerciſe of our Miniſtery ſince your Honours injunction; ſo we do now with all humility preſent theſe our fervent Petitions to your Honours.</p>
+            <p n="1">1. That you would be pleaſed, in pitty and compaſſion to the
+<pb n="6" facs="tcp:160390:5"/>Proteſtants of this City and to us the Miniſters, who elſe by your Injunction aforeſaid, are indangered to be expoſed to baniſhment, loſſe of eſtate, and of preſent ſubſiſtence, with our wives and fami<g ref="char:EOLhyphen"/>lies, to reſtore us to our Churches, Miniſtery and exerciſe thereof, by permitting of us to uſe the Booke of Common Prayer, in our ſeve<g ref="char:EOLhyphen"/>rall Cathedral and Pariſh Churches, as formerly we uſed the ſame, before your Injunction aforeſaid, and to grant us your Protection therein, till ſuch time as further order be taken by a Convocation of the Clergie, and an act of Parliament in this Kingdome, and in the meane time we ſhall endeavour to demeane our ſelves in the whole courſe of our Miniſterie, with ſuch Chriſtian faithful<g ref="char:EOLhyphen"/>neſſe and moderation, as that wee ſhall (by the help of God) give no juſt occaſion of offence.</p>
+            <p n="2">2. That in caſe your Honors ſhalbe pleaſed to grant this Petition, which we hope you will, if after our ſtay and reſidence here, we, or any of us ſhall by the impoſall of any thing againſt our conſci<g ref="char:EOLhyphen"/>ences be forced hereafter to depart the Kingdome, we may then reſpectively have free paſſes and convenient time to remove our perſons families and goods.</p>
+            <p n="3">3. That during the time of our reſidence here, wee may enjoy the profits, benefits and meanes of our ſeverall Church-livings for our ſubſiſtence, which are due or allotted to us by the Law of the Land and Acts of State.</p>
+            <p n="4">4. That whereas the monethly faſt obſerved hitherto by com<g ref="char:EOLhyphen"/>mand of authority on a Friday, was grounded upon the horrid Re<g ref="char:EOLhyphen"/>bellion of the Iriſh Papiſts, begun, and the danger we were all in, as on that day, wherein the Rebells came to this City to ſurprize it, and the evening of that day, was the time wherein that bloody treachery, and conſpiracie was diſovered, that we may be permit<g ref="char:EOLhyphen"/>ted ſtill to keep the monethly Faſt on that day, being a day of pre<g ref="char:EOLhyphen"/>paration for the monethly Communion according to our cuſtome theſe five yeares paſt.</p>
+            <p>
+               <hi>And we ſhall ever pray &amp;c.</hi>
+            </p>
+            <closer>
+               <dateline>Delivered <date>the 9. day of <hi>July,</hi> 1647.</date>
+               </dateline> 
+               <signed>Subſcribed as followeth.
+<list>
+                     <item>Ed. Laonenſis.</item>
+                     <item>Jer. Margetſon.</item>
+                     <item>Ben. Culme.</item>
+                     <item>Ambr. Anngier.</item>
+                     <item>In. Sybald.</item>
+                     <item>Godf. Rhodes.</item>
+                     <item>Hen. Hall.</item>
+                     <item>Ioſ. War.</item>
+                     <item>Io. Brookbank.</item>
+                     <item>Gilbert Deane.</item>
+                     <item>Dud. Bo<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>well.</item>
+                     <item>Rob. Parry.</item>
+                     <item>Ioan. Creighton, Can.</item>
+                     <item>Edw. Syng.</item>
+                     <item>Rob. Dickson.</item>
+                     <item>Rand. Ince.</item>
+                     <item>Henry Byrch.</item>
+                     <item>Rich. Powell.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
